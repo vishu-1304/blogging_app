@@ -21,7 +21,7 @@ const Navbar = () => {
     <div className="flex items-center justify-between px-6 md:px-20 py-4 bg-white shadow-sm border-b">
       {/* Logo */}
       <h1 className="text-xl md:text-2xl font-bold text-gray-800 tracking-wide">
-        <Link to="/">Tourist Blogs</Link>
+        <Link to="/">Trip Tales</Link>
       </h1>
 
       {/* Search (only on home) */}
